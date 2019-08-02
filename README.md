@@ -4,7 +4,7 @@ Google Book Finder using the google book api.(No state management library used l
 
 <p align="center" margin-bottom="0">
   <a href="https://hackernews-redesign.netlify.com" target="_blank">
-    <img alt="Google Book Finder" width="auto" height="auto" src="https://i.ibb.co/PY5rfSm/screenzy-1564681250102.png">
+    <img alt="Google Book Finder" width="auto" height="auto" src="https://i.ibb.co/dGPhzty/shadow.png">
   </a>
 </p>
 <p align="center">
